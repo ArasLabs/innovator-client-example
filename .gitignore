@@ -1,0 +1,14 @@
+*.sdf
+*.vspscc
+*.suo
+Debug
+Release
+AppPackages
+*.vssscc
+*.user
+*.ipch
+*.opensdf
+BundleArtifacts
+.DS_Store
+*.userprefs
+*.a
