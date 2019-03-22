@@ -6,7 +6,7 @@ A sample Windows application that connects to an Aras instance.
 
 Release | Notes
 --------|--------
-[v1.0.1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1.0.1) | Updated Install steps 
+[v1.0.1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1.0.1) | Updated Install steps. Tested on 11.0 SP15, SP12.
 [v1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1) | Migrated from the old Aras Community Projects site and updated.
 
 #### Supported Aras Versions
