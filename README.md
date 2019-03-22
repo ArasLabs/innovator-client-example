@@ -13,7 +13,7 @@ Release | Notes
 
 Project | Aras
 --------|------
-[v1.0.1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1.0.1) | Tested on 11.0 SP15, SP12
+[v1.0.1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1.0.1) | 10.0 SPx, 11.0 SPx
 [v1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1) | 10.0 SPx, 11.0 SPx
 
 ## Installation
