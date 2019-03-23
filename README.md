@@ -6,12 +6,14 @@ A sample Windows application that connects to an Aras instance.
 
 Release | Notes
 --------|--------
+[v1.0.1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1.0.1) | Updated Install steps. Tested on 11.0 SP15, SP12.
 [v1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1) | Migrated from the old Aras Community Projects site and updated.
 
 #### Supported Aras Versions
 
 Project | Aras
 --------|------
+[v1.0.1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1.0.1) | 10.0 SPx, 11.0 SPx
 [v1](https://github.com/ArasLabs/innovator-client-example/releases/tag/v1) | 10.0 SPx, 11.0 SPx
 
 ## Installation
@@ -32,10 +34,9 @@ Project | Aras
     3. Click the "Browse" button in the Reference Manager dialog.
     4. Navigate to your Innovator install directory then Innovator\Server\bin.
     5. Select IOM.dll and click "Add".
-2. Build the solution.
-3. Modify `InnovatorClientExampleConfig.xml` in the root project directory so that `<vault>`, `<server>` and `<database>` point to your installation of the Aras Innovator.
-4. Copy the modified configuration file `InnovatorClientExampleConfig.xml` from the root project directory to the directory where the project executable is built (`InnovatorClientExample\bin\Debug`).
-5. Run the executable: `InnovatorClientExample\bin\Debug\InnovatorClientExample.exe`.
+2. Modify `InnovatorClientExampleConfig.xml` in the root project directory/solution so that `<vault>`, `<server>` and `<database>` point to your installation of the Aras Innovator.
+3. Build the solution.
+4. Run the executable: `InnovatorClientExample\bin\Debug\InnovatorClientExample.exe`.
 
 ## Usage
 
